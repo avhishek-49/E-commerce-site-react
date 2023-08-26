@@ -12,7 +12,7 @@ export default function StripeButton({ price }) {
     return (
         <StripeCheckout
             label="Pay Now"
-            name='AK Clothing Ltd.'
+            name='Abishek Clothing store.'
             billingAddress
             shippingAddress
             image='https://svgshare.com/i/QaG.svg'
